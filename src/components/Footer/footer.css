@@ -1,0 +1,27 @@
+.footer {
+  background-color: #262626;
+}
+
+.footer .logo img {
+  width: 50%;
+  margin-bottom: 1rem;
+}
+
+.footer .logo p {
+  color: var(--text-color);
+}
+
+.social__links span a {
+  text-decoration: none;
+  color: var(--heading-color);
+  font-size: 1.2rem;
+}
+.footer__link-title {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.copyright {
+  color: var(--text-color);
+  font-size: 1rem;
+}
